@@ -1,0 +1,12 @@
+[submodule "villa-product-database"]
+	path = villa-product-database
+	url = git@github.com:thanakijwanavit/villa-product-database.git
+[submodule "villa-product-sdk"]
+	path = villa-product-sdk
+	url = git@github.com:thanakijwanavit/villa-product-sdk.git
+[submodule "villa-inv-database"]
+	path = villa-inv-database
+	url = git@github.com:thanakijwanavit/villa-inv-database.git
+[submodule "villa-inventory-sdk"]
+	path = villa-inventory-sdk
+	url = git@github.com:thanakijwanavit/villa-inventory-sdk.git
